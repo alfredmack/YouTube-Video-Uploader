@@ -12,6 +12,6 @@ To use this application,
 1.Create a project in your [Google Developers Console](https://console.developers.google.com),
 1.  Enable the YouTube Data API v3 and Google+ API in the project you have created.
 1.  Create a client ID for Android, using your SHA1 and package name. 
- Read here for more understanding [Register your Android app](https://developers.google.com/youtube/android/player/register)
-1.Plug in your Playlist Id into Constants.java and Android API Key into Auth.java
-1.Done! Enjoy the show!
+    Read here for more understanding [Register your Android app](https://developers.google.com/youtube/android/player/register)
+1.  Plug in your Playlist Id into Constants.java and Android API Key into Auth.java
+1.  Done! Enjoy the show!
